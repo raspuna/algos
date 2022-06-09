@@ -82,5 +82,5 @@ console.log(rotateArr([1, 2, 3], -2));
 
 console.log(rotateArr([1, 2, 3], -1));
 
-//console.log(filterRange([1, 3, 5, 6, 8, 11, -3, -5, 2, 6, 9], 3, 8));
-//console.log(concat([1, 2, 3], [5, 6, 7]));
+console.log(filterRange([1, 3, 5, 6, 8, 11, -3, -5, 2, 6, 9], 3, 8));
+console.log(concat([1, 2, 3], [5, 6, 7]));
