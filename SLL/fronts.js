@@ -29,15 +29,6 @@ class LinkedList {
     }
     return null;
   }
-  show() {
-    let next = this.head;
-    let text = "";
-    while (next != null) {
-      text += next.data + ", ";
-      next = next.next;
-    }
-    console.log(text);
-  }
 }
 
 s = new LinkedList();
